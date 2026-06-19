@@ -248,7 +248,7 @@ systemctl --user daemon-reload
 
 ## License
 
-This project is licensed under the [appropriate license - please add your license here]
+This project is licensed under the GPLv3
 
 ## Contributing
 
