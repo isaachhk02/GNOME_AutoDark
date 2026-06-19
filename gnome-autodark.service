@@ -1,0 +1,10 @@
+[Unit]
+Description=GNOME AutoDark by isaachhk02
+
+[Service]
+Type=oneshot
+#User=
+#Group=
+ExecStart=/usr/bin/gnome-autodark
+[Install]
+WantedBy=default.target
